@@ -1,0 +1,15 @@
+django
+opencv-python
+postgres
+appdirs
+asgiref
+distlib
+Django
+filelock
+numpy
+psycopg2-binary
+psycopg2-pool
+pytz
+six
+sqlparse
+virtualenv
